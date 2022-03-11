@@ -10,9 +10,10 @@
     "@0x/dev-utils": "^4.2.1",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "redis": "^4.0.4",
+    "web3": "^1.7.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "truffle test",
     "migrate": "truffle migrate"
